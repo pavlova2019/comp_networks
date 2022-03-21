@@ -80,7 +80,7 @@ class ClientHandler(private val client: Socket) {
             }*/
 
             writerSocket.write(modifyRequest("GET http://$url HTTP/1.1\r\n" +
-                    "\r\n"))
+                    "Host: ${ipHost.hostName}\r\n Connection: close\r\n\r\n"))
             println("Request: <GET http://$url HTTP/1.1 Host: ${ipHost.hostName} Connection: close>")
             val res = StringBuilder()
             while (readerSocket.hasNext()) {
