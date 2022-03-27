@@ -12,18 +12,12 @@ import java.nio.charset.Charset
 import java.util.*
 import javax.imageio.ImageIO
 
-private fun putIfMissing(props: Properties, key: String, value: String) {
-    if (!props.containsKey(key)) {
-        props[key] = value
-    }
-}
-
 fun main(args: Array<String>) {
     val parser = ArgParser("mail")
     val host by parser.option(ArgType.String, description = "Host").default("mail.spbu.ru")
     val port by parser.option(ArgType.Int, description = "Port").default(25)
     val username by parser.option(ArgType.String, description = "Username").required()
-    val password by parser.option(ArgType.String, description = "Password").default("8dEq6fzh")
+    val password by parser.option(ArgType.String, description = "Password").required()
 
     try {
         parser.parse(args)
