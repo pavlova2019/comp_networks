@@ -6,7 +6,7 @@ import org.junit.Test
 class TestCounter {
     @Test
     fun testEmpty() {
-        val counter = BitCounter(10)
+        val counter = CheckSumCounter(10)
         val list: List<Byte> = listOf()
         assertEquals(65535u, counter.countControlSum(list))
         assertTrue(counter.checkSum(list, 65535u))
@@ -15,7 +15,7 @@ class TestCounter {
 
     @Test
     fun testSimple() {
-        val counter = BitCounter(10)
+        val counter = CheckSumCounter(10)
         val list: List<Byte> = listOf(1, 2, 3, 4)
         assertEquals(64505u, counter.countControlSum(list))
         assertTrue(counter.checkSum(list, 64505u))
@@ -24,7 +24,7 @@ class TestCounter {
 
     @Test
     fun testEven() {
-        val counter = BitCounter(10)
+        val counter = CheckSumCounter(10)
         val list: List<Byte> = listOf(1, 2, 3, 4, 5)
         assertEquals(64500u, counter.countControlSum(list))
         assertTrue(counter.checkSum(list, 64500u))
@@ -33,7 +33,7 @@ class TestCounter {
 
     @Test
     fun testMaxLen() {
-        val counter = BitCounter(5)
+        val counter = CheckSumCounter(5)
         val list: List<Byte> = listOf(1, 2, 3, 4, 5, 6)
         assertThrows(IllegalArgumentException::class.java) {counter.countControlSum(list)}
         assertThrows(IllegalArgumentException::class.java) {counter.checkSum(list, 1u)}

@@ -1,6 +1,6 @@
 package pavlova.alexandra
 
-class BitCounter(L: Int) {
+class CheckSumCounter(L: Int) {
     private val maxLen = L
     private val chunkSize = 2
     private val mod = (1 shl (8 * chunkSize)).toUInt()

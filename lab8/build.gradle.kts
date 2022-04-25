@@ -12,4 +12,5 @@ repositories {
 dependencies {
     implementation(kotlin("stdlib"))
     implementation("junit:junit:4.13.1")
+    //implementation("io.ktor:ktor-network:1.6.1")
 }
