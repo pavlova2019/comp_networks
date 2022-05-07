@@ -1,0 +1,30 @@
+> ADDRESS: 192.168.1.1 hostname: _gateway  TTL = 1  RTT = 0.0030813217163085938
+> ADDRESS: 192.168.1.1 hostname: _gateway  TTL = 1  RTT = 0.0033142566680908203
+________________________________________________
+****
+****
+________________________________________________
+> ADDRESS: 176.241.97.153 hostname: unknown  TTL = 3  RTT = 0.0031540393829345703
+****
+________________________________________________
+****
+****
+________________________________________________
+> ADDRESS: 212.188.54.2 hostname: kivi-cr02-ae8.78.hel.mts-internet.net  TTL = 5  RTT = 0.010828733444213867
+> ADDRESS: 212.188.54.2 hostname: kivi-cr02-ae8.78.hel.mts-internet.net  TTL = 5  RTT = 0.010712862014770508
+________________________________________________
+> ADDRESS: 213.242.69.97 hostname: ae52.edge4.Stockholm2.Level3.net  TTL = 6  RTT = 0.12864923477172852
+> ADDRESS: 213.242.69.97 hostname: ae52.edge4.Stockholm2.Level3.net  TTL = 6  RTT = 0.019806861877441406
+________________________________________________
+> ADDRESS: 212.221.25.85 hostname: ae2.cr3-stk3.ip4.gtt.net  TTL = 7  RTT = 0.015011072158813477
+> ADDRESS: 212.221.25.85 hostname: ae2.cr3-stk3.ip4.gtt.net  TTL = 7  RTT = 0.014958858489990234
+________________________________________________
+****
+****
+________________________________________________
+> ADDRESS: 98.124.189.22 hostname: ip4.gtt.net  TTL = 9  RTT = 0.5066862106323242
+> ADDRESS: 98.124.189.22 hostname: ip4.gtt.net  TTL = 9  RTT = 0.32940149307250977
+________________________________________________
+> ADDRESS: 23.36.37.109 hostname: a23-36-37-109.deploy.static.akamaitechnologies.com  TTL = 10  RTT = 0.1301262378692627
+> ADDRESS: 23.36.37.109 hostname: a23-36-37-109.deploy.static.akamaitechnologies.com  TTL = 10  RTT = 0.12895846366882324
+Packages lost 7

@@ -1,0 +1,48 @@
+> ADDRESS: 192.168.1.1 hostname: _gateway  TTL = 1  RTT = 0.0029053688049316406
+> ADDRESS: 192.168.1.1 hostname: _gateway  TTL = 1  RTT = 0.003318309783935547
+________________________________________________
+****
+****
+________________________________________________
+> ADDRESS: 176.241.97.153 hostname: unknown  TTL = 3  RTT = 0.0030825138092041016
+****
+________________________________________________
+> ADDRESS: 212.188.1.101 hostname: oct-cr01-be2.78.spb.mts-internet.net  TTL = 4  RTT = 0.0031239986419677734
+> ADDRESS: 212.188.1.101 hostname: oct-cr01-be2.78.spb.mts-internet.net  TTL = 4  RTT = 0.003411531448364258
+________________________________________________
+> ADDRESS: 212.188.54.2 hostname: kivi-cr02-ae8.78.hel.mts-internet.net  TTL = 5  RTT = 0.12947678565979004
+> ADDRESS: 212.188.54.2 hostname: kivi-cr02-ae8.78.hel.mts-internet.net  TTL = 5  RTT = 0.06052231788635254
+________________________________________________
+> ADDRESS: 195.34.53.213 hostname: bro-cr02-ae4.150.stk.mts-internet.net  TTL = 6  RTT = 0.05617523193359375
+> ADDRESS: 195.34.53.213 hostname: bro-cr02-ae4.150.stk.mts-internet.net  TTL = 6  RTT = 0.014393806457519531
+________________________________________________
+> ADDRESS: 194.68.123.187 hostname: netnod-ix-ge-a-sth-1500.he.net  TTL = 7  RTT = 0.014509201049804688
+> ADDRESS: 194.68.123.187 hostname: netnod-ix-ge-a-sth-1500.he.net  TTL = 7  RTT = 0.014648675918579102
+________________________________________________
+****
+> ADDRESS: 184.104.194.222 hostname: 100ge0-35.core2.cph1.he.net  TTL = 8  RTT = 0.06924557685852051
+________________________________________________
+> ADDRESS: 184.104.195.162 hostname: port-channel2.core1.ewr5.he.net  TTL = 9  RTT = 0.23436403274536133
+> ADDRESS: 184.104.195.162 hostname: port-channel2.core1.ewr5.he.net  TTL = 9  RTT = 0.2327127456665039
+________________________________________________
+****
+> ADDRESS: 184.104.195.170 hostname: port-channel5.core3.nyc4.he.net  TTL = 10  RTT = 0.25374722480773926
+________________________________________________
+> ADDRESS: 184.105.81.61 hostname: 100ge13-1.core4.fmt2.he.net  TTL = 11  RTT = 0.2322244644165039
+> ADDRESS: 184.105.81.61 hostname: 100ge13-1.core4.fmt2.he.net  TTL = 11  RTT = 0.23626494407653809
+________________________________________________
+> ADDRESS: 184.105.222.90 hostname: 100ge9-1.core1.pao1.he.net  TTL = 12  RTT = 0.23200607299804688
+> ADDRESS: 184.105.222.90 hostname: 100ge9-1.core1.pao1.he.net  TTL = 12  RTT = 0.23586392402648926
+________________________________________________
+> ADDRESS: 184.105.177.238 hostname: stanford-university.100gigabitethernet5-1.core1.pao1.he.net  TTL = 13  RTT = 0.19137001037597656
+> ADDRESS: 184.105.177.238 hostname: stanford-university.100gigabitethernet5-1.core1.pao1.he.net  TTL = 13  RTT = 0.23601555824279785
+________________________________________________
+****
+> ADDRESS: 171.66.255.132 hostname: woa-west-rtr-vl3.SUNet  TTL = 14  RTT = 0.2603626251220703
+________________________________________________
+****
+****
+________________________________________________
+> ADDRESS: 171.67.215.200 hostname: web.stanford.edu  TTL = 16  RTT = 0.2817826271057129
+****
+Packages lost 9
