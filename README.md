@@ -9,4 +9,6 @@
 <a href="https://docs.google.com/document/d/1bFwCSiRuCMuwkDmO3SVOggWR2GKoCt6BpnIuIpJpjAY/edit?usp=sharing" target="_blank">lab8</a>,
 <a href="https://docs.google.com/document/d/1LpkzIAqqShBxDQ-QmvRoB6THrrKW2e35J6_hl3PKtLU/edit?usp=sharing" target="_blank">lab9</a>,
 <a href="https://docs.google.com/document/d/1utt2LqXIXLm0bb5EVUwwEOwnsI4eqb2Y7ig5-oUEUAo/edit?usp=sharing" target="_blank">lab10</a>,
-<a href="https://docs.google.com/document/d/1xN75qp_w744FxyL6ZuyjTaYnt88bWRk1p2Cxs4qhZRw/edit?usp=sharing" target="_blank">lab13</a>
+<a href="https://docs.google.com/document/d/1xN75qp_w744FxyL6ZuyjTaYnt88bWRk1p2Cxs4qhZRw/edit?usp=sharing" target="_blank">lab13</a>,
+<a href="https://docs.google.com/document/d/1EXxqtKBXGQix1RjEu4v48A6ukphTApIK_L-WnV8KgyY/edit?usp=sharing" target="_blank">lab14</a>
+
